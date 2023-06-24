@@ -1,5 +1,6 @@
-public class QuotientRemainder {
-
+public class QuotientRemainder
+inint close
+thank you
   public static void main(String[] args) {
 
     int dividend = 25, divisor = 4;
